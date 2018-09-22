@@ -1,0 +1,32 @@
+_repo: Through-Portugal_55034
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Forrest, A. S. (Archibald Stevenson)
+    alias: Forrest, Archibald Stevenson
+    birthdate: 1869
+    deathdate: 1963
+    gutenberg_agent_id: '33528'
+    url: http://www.gutenberg.org/2009/agents/33528
+creator:
+  author:
+    agent_name: Hume, Martin A. S. (Martin Andrew Sharp)
+    alias: Hume, Martin Andrew Sharp
+    birthdate: 1847
+    deathdate: 1910
+    gutenberg_agent_id: '9628'
+    url: http://www.gutenberg.org/2009/agents/9628
+    wikipedia: http://en.wikipedia.org/wiki/Martin_Sharp_%28journalist%29
+description: ''
+gutenberg_issued: '2017-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55034'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Through Portugal
+url: http://www.gutenberg.org/ebooks/55034
